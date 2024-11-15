@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Installomator</key>
+	<array>
+		<dict>
+			<key>DisplayName</key>
+			<string>Google Chrome</string>
+			<key>Label</key>
+			<string>googlechrome</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>Google Drive</string>
+			<key>Label</key>
+			<string>googledrivefilestream</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>Microsoft OneDrive</string>
+			<key>Label</key>
+			<string>microsoftonedrive</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>Microsoft Teams</string>
+			<key>Label</key>
+			<string>microsoftteams</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>Webex</string>
+			<key>Label</key>
+			<string>webex</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>Zoom</string>
+			<key>Label</key>
+			<string>zoom</string>
+		</dict>
+		<dict>
+			<key>DisplayName</key>
+			<string>8x8 Work</string>
+			<key>Label</key>
+			<string>8x8work</string>
+		</dict>
+	</array>
+</dict>
+</plist>
