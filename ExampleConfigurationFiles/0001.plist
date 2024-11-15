@@ -16,6 +16,7 @@
 			<key>Label</key>
 			<string>googledrivefilestream</string>
 		</dict>
+		<!--
 		<dict>
 			<key>DisplayName</key>
 			<string>Microsoft OneDrive</string>
@@ -28,6 +29,7 @@
 			<key>Label</key>
 			<string>microsoftteams</string>
 		</dict>
+		-->
 		<dict>
 			<key>DisplayName</key>
 			<string>Webex</string>
